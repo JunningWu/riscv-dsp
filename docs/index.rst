@@ -14,7 +14,7 @@ Table of Contents
    :maxdepth: 3
    :numbered:
 
-  IDE/index
+  Haawking-IDE/index
   
   Online-Course-2021/index
 
@@ -22,11 +22,11 @@ Table of Contents
 
   HXS320F2803X/index
 
-  Demo-Boards/index
+  Demo Boards/index
 
   Migration-manual/index
 
-  Application-notes/index
+  Application Notes/index
 
 Indices and tables
 ==================
