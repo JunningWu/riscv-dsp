@@ -6,6 +6,9 @@
 Welcome to RISC-V DSP's Documentation!
 ==================================================
 .. image:: ./images/logo.png
+  :width: 400
+  :length: 200
+  :alt: Haawking Logo
 
 Table of Contents
 -------------------
