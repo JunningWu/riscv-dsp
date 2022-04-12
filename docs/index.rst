@@ -5,6 +5,7 @@
 
 Welcome to RISC-V DSP's Documentation!
 ==================================================
+.. image:: ./images/logo.png
 
 Table of Contents
 -------------------
@@ -13,7 +14,7 @@ Table of Contents
    :maxdepth: 3
    :numbered:
 
-  Haawking-IDE/index
+  IDE/index
   
   Online-Course-2021/index
 
@@ -21,7 +22,11 @@ Table of Contents
 
   HXS320F2803X/index
 
-  Board/index
+  Demo-Boards/index
+
+  Migration-manual/index
+
+  Application-notes/index
 
 Indices and tables
 ==================
@@ -29,4 +34,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
