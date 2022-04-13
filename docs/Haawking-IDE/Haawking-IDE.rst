@@ -5,7 +5,7 @@ Haawking IDE
 Haawking™ IDE now provides the RISC-V DSP development market with one toolset using a single debugger instance to program and debug any of Beijing Haakwing Technology Co., Ltd's RISC-V DSPs using JTAG or HX-LINK debug interfaces.
 
 
-V1.2.0
+IDE
 ============
 
 .. image:: haawking_ide_about_v1.2.0.png
@@ -61,7 +61,6 @@ https://www.bilibili.com/video/BV14N411o77o
 ============
 
 V1.2.0 版本（仅支持量产版芯片） 
-
  更新 IQMath 函数库，补全乘法以及类型转换的相关函数 
  更新驱动库 默认使用 stdlib 库文件 
  更新 027 和 034 外设寄存器 json 文件 
