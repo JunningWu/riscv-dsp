@@ -61,15 +61,16 @@ https://www.bilibili.com/video/BV14N411o77o
 ============
 
 V1.2.0 版本（仅支持量产版芯片） 
+
  更新 IQMath 函数库，补全乘法以及类型转换的相关函数 
  更新驱动库 默认使用 stdlib 库文件 
  更新 027 和 034 外设寄存器 json 文件 
 
 V1.2.1 版本 
- 1.提升 28027 擦除及烧写的主频为 12MHz，及修改 Flash 对应主频的配置参数
- 2.修复 Erase 函数 Bug；增加时钟校准功能；28027 增加 ENPIE 的定义，将系统时钟设为 120M，修改 delay 函数名字，labs警告
- 3.28034 增加 ENPIE 的定义，将系统时 1 钟设为 120M，修改 IQmath 的表格，在 bootrom 中的定义，修改delay函数名字，labs警告
- 4.修改 28335 的 ld 文件的fPU表格
+ 1. 提升 28027 擦除及烧写的主频为 12MHz，及修改 Flash 对应主频的配置参数
+ 2. 修复 Erase 函数 Bug；增加时钟校准功能；28027 增加 ENPIE 的定义，将系统时钟设为 120M，修改 delay 函数名字，labs警告
+ 3. 28034 增加 ENPIE 的定义，将系统时 1 钟设为 120M，修改 IQmath 的表格，在 bootrom 中的定义，修改delay函数名字，labs警告
+ 4. 修改 28335 的 ld 文件的fPU表格
 
 V1.3.0 版本 
  1. 增加了 segger 实时运行库 
