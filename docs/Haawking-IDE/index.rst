@@ -13,5 +13,8 @@ Contents:
    :caption: Haawking-IDE:
 
   Haawking-IDE
+  Haawking-Flasher
+  HX-LINK
+  HX-LINK-Downloader
 
 
