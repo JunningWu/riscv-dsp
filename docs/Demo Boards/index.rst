@@ -26,7 +26,7 @@ Table of Contents
 
   Migration-manual/index
 
-  Application-notes/index
+  Application Notes/index
 
 Indices and tables
 ==================
