@@ -13,10 +13,7 @@ Table of Contents
 -------------------
 
 .. toctree::
-   :maxdepth: 3
-   :numbered:
-   
- 
+   :maxdepth: 3   
 
   Haawking-IDE
   Online-Course-2021
