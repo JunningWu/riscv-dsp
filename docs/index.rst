@@ -14,17 +14,17 @@ Table of Contents
    :maxdepth: 3
    :numbered:
 
-Haawking-IDE/index
+  Haawking-IDE/index
 
-HXS320F2802X/index
+  HXS320F2802X/index
 
-HXS320F2803X/index
+  HXS320F2803X/index
 
-Demo-Boards/index
+  Demo-Boards/index
 
-Migration-manual/index
+  Migration-manual/index
 
-Application-Notes/index
+  Application-Notes/index
 
 Indices and tables
 ==================
