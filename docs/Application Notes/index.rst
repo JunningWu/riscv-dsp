@@ -1,7 +1,6 @@
 .. toctree::
    :maxdepth: 2
-   :caption: Application-Notes:
-
+  
    DSC28027开发教程—GPIO控制LED
    DSC28027实例程序开发教程—eQEP_ePWM
    DSC28027实例程序开发教程—LED_Blink_Flash_EW_120Mhz
