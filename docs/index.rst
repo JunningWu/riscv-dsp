@@ -24,11 +24,11 @@ Table of Contents
 
   HXS320F2803X/index
 
-  Demo Boards/index
+  Demo-Boards/index
 
   Migration-manual/index
 
-  Application Notes/index
+  Application-Notes/index
 
 Indices and tables
 ==================
