@@ -1,5 +1,5 @@
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption:  Application-Notes:
   
    DSC28027开发教程—GPIO控制LED
