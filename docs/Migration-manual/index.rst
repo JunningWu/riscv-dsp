@@ -1,4 +1,4 @@
-Migration-manual
+Migration Manuals
 ==================================================
 
 Contents:

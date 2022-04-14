@@ -1,5 +1,5 @@
 
-Migration-manual
+Demo Boards
 ==================================================
 
 Contents:
