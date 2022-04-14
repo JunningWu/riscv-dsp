@@ -1,4 +1,4 @@
-Application-Notes
+Application Notes
 ============
 
 器件特性
