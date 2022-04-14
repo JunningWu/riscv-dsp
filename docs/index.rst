@@ -18,13 +18,13 @@ Table of Contents
    
  
 
-  Haawking-IDE/index
-  Online-Course-2021/index
-  HXS320F2802X/index
-  HXS320F2803X/index
-  Demo-Boards/index
-  Migration-manual/index
-  Application-Notes/index
+  Haawking-IDE
+  Online-Course-2021
+  HXS320F2802X
+  HXS320F2803X
+  Demo-Boards
+  Migration-manual
+  Application-Notes
 
 Indices and tables
 ==================
