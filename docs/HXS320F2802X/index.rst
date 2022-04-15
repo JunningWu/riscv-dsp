@@ -12,6 +12,6 @@ Contents:
    :maxdepth: 2
    :caption: HXS320F2802X:
 
-  HXS320F28027PTT
+   HXS320F28027PTT
 
 
