@@ -14,4 +14,4 @@ IDE
 
 Features
 ============
-... is installed in :file:`/Migration-manual/Haawking_DSC28027&034 数字信号控制_器迁移指南_V1.4
+.. is installed in :file:`/Migration-manual/Haawking_DSC28027&034 数字信号控制_器迁移指南_V1.4
