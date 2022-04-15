@@ -9,8 +9,8 @@ Contents:
    
 `PDF`_
 
-.. _PDF:http://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-17.pdf
+.. _PDF:
   
-这篇文章参考的是：`Quick reStructuredText`__。
+这篇文章参考的是：`EECS-2016-17`__。
 
-.. __: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+.. __: http://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-17.pdf
