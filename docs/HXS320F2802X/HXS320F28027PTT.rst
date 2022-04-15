@@ -4,6 +4,6 @@ HXS320F28027
 器件特性
 --------
 
-.. image:: ../images/28034PNT芯片特性.png
+.. image:: ../images/28027芯片特性.png
   
  
