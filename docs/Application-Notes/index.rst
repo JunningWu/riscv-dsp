@@ -11,3 +11,8 @@ Contents:
 这篇文章参考的是：`EECS-2016-17`__。
 
 .. __: http://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-17.pdf
+
+
+这篇文章参考的是：`DSC28027实例程序开发教程—SCI_AutoBaud`__。
+
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/DSC28027%E5%AE%9E%E4%BE%8B%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B%E2%80%94SCI_AutoBaud.pdf
