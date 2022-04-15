@@ -1,9 +1,9 @@
-HXS320F28034
+HXS320F28034PNT
 ==============
 
 器件特性
 --------
 
-.. image:: HXS320F28034PNT.png
-  :width: 600
-  :alt: HXS320F28034PNT.png
+.. image:: ../images/28034PNT芯片特性.png
+
+ 
