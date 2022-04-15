@@ -5,7 +5,7 @@ Haawking Flasher
 Haawking-Flasher .exe 需要使用支持文件，不能将 Haawking-Flasher .exe 文件剪切出该文件夹，如需移至桌面或其他位置，请创建快捷方式。Haawking-Flasher .exe 的烧写文件需要使用 Haawking-IDE 的 Flash 工程 生成的文件，如使用其他或 RAM 的文件不能进行正确烧写。如电脑的特殊软件将 烧写文件修改，也不能正确烧写。
 
 
-IDE
+Flasher
 ============
 
 
