@@ -7,9 +7,6 @@ Contents:
    :maxdepth: 2
    :caption: Application-Notes:
    
-`PDF`_
-
-.. _PDF:
   
 这篇文章参考的是：`EECS-2016-17`__。
 
