@@ -8,7 +8,8 @@ Haawking™ IDE now provides the RISC-V DSP development market with one toolset 
 IDE
 ============
 
-.. image:: ./images/IDEOPEN.png
+.. image:: ../images/IDEOPEN.png
+   :width: 650
   
   
 
