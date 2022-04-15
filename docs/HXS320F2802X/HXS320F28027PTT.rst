@@ -5,5 +5,5 @@ HXS320F28027
 --------
 
 .. image:: ../images/28034PNT芯片特性.png
-  :width: 600
+  
  
