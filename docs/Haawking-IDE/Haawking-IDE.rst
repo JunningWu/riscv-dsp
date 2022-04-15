@@ -9,7 +9,7 @@ IDE
 ============
 
 .. image:: ./images/IDEOPEN.png
-  :width: 400
+  
   
 
 Features
