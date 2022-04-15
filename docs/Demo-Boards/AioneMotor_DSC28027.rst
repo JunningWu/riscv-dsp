@@ -14,7 +14,7 @@ IDE
 
 Features
 ============
-Only Support New Version HX2000 Chips(202107 or later)
+.. include:: AioneMotor_DSC28027电机驱控一体板.pdf
 
 
 
