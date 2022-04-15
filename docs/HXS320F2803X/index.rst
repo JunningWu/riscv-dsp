@@ -14,6 +14,8 @@ Contents:
 
 
   HXS320F28034PNT
+  HXS320F28034PAGT
+  
 
 
 
