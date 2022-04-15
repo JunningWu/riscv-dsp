@@ -10,7 +10,7 @@ IDE
 
 .. image:: ./images/IDEOPEN.png
   :width: 400
-  :alt: Haawking-IDE-V1.2.0 
+  
 
 Features
 ============
