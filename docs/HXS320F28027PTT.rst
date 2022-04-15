@@ -1,9 +1,0 @@
-HXS320F28027
-============
-
-器件特性
---------
-
-.. image:: HXS320F2802X/HXS320F28027PTT.png
-  :width: 600
-  :alt: HXS320F28027PTT.png
