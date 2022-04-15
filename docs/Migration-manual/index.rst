@@ -5,7 +5,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Migration-manual:
+   :caption:  Migration-manual:
    
   Migration-manual
 
