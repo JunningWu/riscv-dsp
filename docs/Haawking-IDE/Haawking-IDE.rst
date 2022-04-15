@@ -8,26 +8,13 @@ Haawking™ IDE now provides the RISC-V DSP development market with one toolset 
 IDE
 ============
 
-.. image:: haawking_ide_about_v1.2.0.png
+.. image:: ./images/IDEOPEN.png
   :width: 400
   :alt: Haawking-IDE-V1.2.0 
 
 Features
 ============
 Only Support New Version HX2000 Chips(202107 or later)
-
-
-
-
-Update Logs
-============
-更新IQMath函数库，补全乘法以及类型转换的相关函数
-
-更新驱动库
-
-默认使用stdlib库文件
-
-更新027和034外设寄存器json文件
 
 
 
@@ -57,7 +44,7 @@ https://www.bilibili.com/video/BV14N411o77o
 
 
 
-版本更新
+Update Logs
 ============
 
 V1.2.0 版本（仅支持量产版芯片） 
