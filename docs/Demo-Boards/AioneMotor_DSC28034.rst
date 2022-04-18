@@ -2,23 +2,17 @@
 AioneMotor_DSC28034
 ============
 
-Haawking™ IDE now provides the RISC-V DSP development market with one toolset using a single debugger instance to program and debug any of Beijing Haakwing Technology Co., Ltd's RISC-V DSPs using JTAG or HX-LINK debug interfaces.
+AioneMotor_DSC28034电机驱控一体板使用了中科昊芯HXS320F28034PNT RISC-V DSP芯片，该芯片集成了中科昊芯自主研发的H28x内核。该电机驱控一体板可驱动BLDC，PMSM，交流感应等三相电机。适合有感/无感方波，有感/无感FOC等算法演示。
 
 
-IDE
+
+引脚定义
 ============
 
-.. image:: haawking_ide_about_v1.2.0.png
-  :width: 400
-  :alt: Haawking-IDE-V1.2.0 
-
-Features
+.. image:: ../images/a34.png
+  :width: 800
+  
+更多信息
 ============
-Only Support New Version HX2000 Chips(202107 or later)
 
-
-
-
-Update Logs
-============
-更新IQMath函数库，补全乘法以及类型转换的相关函数
+链接：http://www.haawking.com/AioneMotor28034
