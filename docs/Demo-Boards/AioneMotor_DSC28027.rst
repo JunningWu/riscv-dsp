@@ -11,4 +11,7 @@ AioneMotor_DSC28027电机驱控一体板使用了中科昊芯HXS320F28027PTT RIS
 .. image:: ../images/a27.png
   :width: 800
   
+更多信息
+============
 
+链接：http://www.haawking.com/AioneMotor28027 
