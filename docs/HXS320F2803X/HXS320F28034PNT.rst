@@ -7,3 +7,15 @@ HXS320F28034PNT
 .. image:: ../images/28034PNT芯片特性.png
 
  
+ 
+数据手册
+--------
+下载文档：`Haawking DSC2803X数据手册-V1.1.2`__。
+
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/HXS320F2803X/Hawwking%20DSC2803X%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C-V1.3.pdf
+参考手册
+--------
+
+下载文档 ：`Hawwking DSC2803X参考手册 V1.3.1`__。
+
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/HXS320F2803X/Hawwking%20DSC2803X%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C%20V1.2.1.pdf
