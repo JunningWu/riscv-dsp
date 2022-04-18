@@ -51,7 +51,7 @@ Contents:
 .. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/%E5%88%A9%E7%94%A8Timer%E4%B8%AD%E6%96%AD%E6%8E%A7%E5%88%B6LED.pdf
 
 `利用中科用昊芯DSP实现PWM占空比控制`_
-------------
+-------------
 
 .. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/%E5%88%A9%E7%94%A8%E4%B8%AD%E7%A7%91%E7%94%A8%E6%98%8A%E8%8A%AFDSP%E5%AE%9E%E7%8E%B0PWM%E5%8D%A0%E7%A9%BA%E6%AF%94%E6%8E%A7%E5%88%B6.pdf
 
