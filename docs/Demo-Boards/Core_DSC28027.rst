@@ -2,7 +2,7 @@
 Core_DSC28027
 ============
 
-Haawking™ IDE now provides the RISC-V DSP development market with one toolset using a single debugger instance to program and debug any of Beijing Haakwing Technology Co., Ltd's RISC-V DSPs using JTAG or HX-LINK debug interfaces.
+Core_DSC28027核心板使用了中科昊芯HXS320F28027PTT RISC-V DSP芯片，该芯片集成了中科昊芯自主研发的H28x内核。核心板包括：JTAG调试接口、供电电源接口、复位、指示灯，以及两侧的对外扩展PIN脚等，除JTAG等IO外，所有外设IO全部引出，用户可通过杜邦跳线进行功能验证，便于进行不同应用开发。
 
 
 引脚定义
