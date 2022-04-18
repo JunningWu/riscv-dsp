@@ -2,23 +2,30 @@
 Start_DSC28034PNT
 ============
 
-Haawking™ IDE now provides the RISC-V DSP development market with one toolset using a single debugger instance to program and debug any of Beijing Haakwing Technology Co., Ltd's RISC-V DSPs using JTAG or HX-LINK debug interfaces.
+Start_DSC28034湖人开发板使用了中科昊芯HXS320F28034PNT RISC-V DSP芯片，该芯片集成了中科昊芯自主研发的H28x内核。基于昊芯高性能H28x内核的HXS320F28034PNT处理器，主频高达120MHz，扩展资源丰富SCI(UART)、SPI、（I2C）、LIN、eCAN。
 
 
-IDE
+引脚定义
 ============
 
-.. image:: haawking_ide_about_v1.2.0.png
-  :width: 400
-  :alt: Haawking-IDE-V1.2.0 
-
-Features
+.. image:: ../images/s34.png
+  :width: 800
+  
+更多信息
 ============
-Only Support New Version HX2000 Chips(202107 or later)
+
+链接：http://www.haawking.com/start28034
 
 
-
-
-Update Logs
+硬件说明
 ============
-更新IQMath函数库，补全乘法以及类型转换的相关函数
+下载文档：`Start_DSC28034PNT湖人开发板使用说明`__
+
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Demo-Boards/Start_DSC28034PNT/Start_DSC28034PNT%E6%B9%96%E4%BA%BA%E5%BC%80%E5%8F%91%E6%9D%BF%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf
+
+原理图
+============
+
+下载文档 ：`原理图Start_DSC28034湖人开发板`__
+
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Demo-Boards/Start_DSC28034PNT/%E5%8E%9F%E7%90%86%E5%9B%BEStart_DSC28034%E6%B9%96%E4%BA%BA%E5%BC%80%E5%8F%91%E6%9D%BF.pdf
