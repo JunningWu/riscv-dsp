@@ -7,15 +7,15 @@ HXS320F28027PTT
 .. image:: ../images/28027芯片特性.png
   
  
- 数据手册
+数据手册
 --------
-这篇文章参考的是：`DSC28027实例程序开发教程—SCI_AutoBaud`__。
+立即查阅：`Haawking DSC2802X数据手册-V1.1.2`__。
 
-.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/DSC28027%E5%AE%9E%E4%BE%8B%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B%E2%80%94SCI_AutoBaud.pdf
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/HXS320F2802X/Haawking%20DSC2802X%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C-V1.1.2.pdf
 
 参考手册
 --------
 
-这篇文章参考的是：`DSC28027实例程序开发教程—SCI_AutoBaud`__。
+立即查阅 ：`Hawwking DSC2802X参考手册 V1.3.1`__。
 
-.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/DSC28027%E5%AE%9E%E4%BE%8B%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B%E2%80%94SCI_AutoBaud.pdf
+.. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/HXS320F2802X/Hawwking%20DSC2802X%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C%20V1.3.1.pdf
