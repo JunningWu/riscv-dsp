@@ -18,6 +18,14 @@ Features
 Only Support New Version HX2000 Chips(202107 or later)
 
 
+Download Links
+============
+
+V1.8.2 IDE下载链接
+
+链接：https://www.aliyundrive.com/s/BnTXuS3mB27 
+
+
 
 
 Update Logs
