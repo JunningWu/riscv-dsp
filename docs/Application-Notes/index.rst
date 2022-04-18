@@ -95,7 +95,7 @@ Contents:
 
 .. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/%E5%B9%B3%E5%A4%B4%E5%93%A5CDK%E5%8A%A9%E5%8A%9B%E4%B8%AD%E7%A7%91%E6%98%8A%E8%8A%AFHX2000%E7%B3%BB%E5%88%97%E8%8A%AF%E7%89%87%E4%B9%8B%E5%8F%8C%E7%94%B5%E6%9C%BA%E6%9C%89%E6%84%9FFOC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E4%B8%93%E9%A2%98%EF%BC%88%E5%9B%9B%EF%BC%89%E6%B0%B8%E7%A3%81%E7%94%B5%E6%9C%BA%E5%8F%8C%E9%97%AD%E7%8E%AFFOC%E6%8E%A7%E5%88%B6.pdf
 
-`  平头哥助力中科昊芯HX2000系列芯片之HRCAP高精度脉冲捕获`_
+`平头哥助力中科昊芯HX2000系列芯片之HRCAP高精度脉冲捕获`_
 -------------
 
 .. __: https://github.com/JunningWu/riscv-dsp/blob/master/docs/Application-Notes/%E5%B9%B3%E5%A4%B4%E5%93%A5%E5%8A%A9%E5%8A%9B%E4%B8%AD%E7%A7%91%E6%98%8A%E8%8A%AFHX2000%E7%B3%BB%E5%88%97%E8%8A%AF%E7%89%87%E4%B9%8BHRCAP%E9%AB%98%E7%B2%BE%E5%BA%A6%E8%84%89%E5%86%B2%E6%8D%95%E8%8E%B7.pdf
