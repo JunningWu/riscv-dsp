@@ -150,7 +150,7 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
 
-html_logo = 'images/logo.png'
+html_logo = 'images/logo_white.png'
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
